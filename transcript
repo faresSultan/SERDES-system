@@ -855,3 +855,6 @@ do run.do
 # ** Note: $stop    : serializer_tb.sv(30)
 #    Time: 48 ns  Iteration: 1  Instance: /top/tb
 # Break in Module serializer_tb at serializer_tb.sv line 30
+# Saving coverage database on exit...
+# End time: 23:50:36 on May 19,2025, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 0
